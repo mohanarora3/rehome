@@ -1,0 +1,51 @@
+id,product,brand,category,size,condition,city,listPrice,liquidationValue
+R-0101,Pegasus running jacket,Nike,apparel,M,like_new,Chennai,3995,1119
+R-0102,Dri-FIT training tee,Nike,apparel,L,new,Chennai,1795,503
+R-0103,Air Zoom Pegasus 41,Nike,sneakers,UK 9,like_new,Delhi,10795,3023
+R-0104,Ultraboost Light,Adidas,sneakers,UK 8,good,Mumbai,16999,4760
+R-0105,Essentials hoodie,Adidas,apparel,XL,new,Delhi,3599,1008
+R-0106,Velocity Nitro 3,Puma,sneakers,UK 10,like_new,Chennai,8999,2520
+R-0107,Fresh Foam 1080,New Balance,sneakers,UK 9,new,Mumbai,15999,4480
+R-0108,Chuck 70 high top,Converse,sneakers,UK 7,like_new,Delhi,6999,1960
+R-0109,Mexico 66,Onitsuka Tiger,sneakers,UK 8,new,Chennai,11000,3080
+R-0110,Classic clog,Crocs,sneakers,M7,good,Delhi,3995,1119
+R-0111,Go Walk 7,Skechers,sneakers,UK 9,fair,Chennai,5499,1540
+R-0112,511 slim jeans,Levi's,apparel,32,like_new,Mumbai,3599,1008
+R-0113,Trucker denim jacket,Levi's,apparel,L,new,Chennai,5499,1540
+R-0114,Linen blend shirt,Zara,apparel,M,like_new,Delhi,2990,837
+R-0115,Satin midi dress,Zara,apparel,S,new,Chennai,3990,1117
+R-0116,Relaxed-fit overshirt,H&M,apparel,L,good,Delhi,2299,644
+R-0117,AIRism oversized tee,Uniqlo,apparel,M,new,Chennai,1290,361
+R-0118,Block-print cotton kurta,Fabindia,apparel,M,like_new,Mumbai,2490,697
+R-0119,Chanderi silk dupatta,Fabindia,apparel,Free,new,Delhi,1990,557
+R-0120,Anarkali kurta set,Biba,apparel,L,like_new,Chennai,3999,1120
+R-0121,Silk-blend kurta pajama,Manyavar,apparel,40,new,Chennai,6999,1960
+R-0122,Slim-fit formal shirt,Allen Solly,apparel,40,good,Mumbai,1999,560
+R-0123,Polo tee,U.S. Polo Assn.,apparel,L,like_new,Delhi,1699,476
+R-0124,Ruby Woo lipstick,MAC,beauty,3 g,new,Delhi,2150,602
+R-0125,Studio Fix foundation,MAC,beauty,30 ml,new,Chennai,3950,1106
+R-0126,Niacinamide 10% serum,The Ordinary,beauty,30 ml,new,Mumbai,990,277
+R-0127,Kumkumadi face oil,Forest Essentials,beauty,30 ml,new,Chennai,4500,1260
+R-0128,Fit Me matte foundation,Maybelline,beauty,30 ml,new,Delhi,599,168
+R-0129,9to5 primer + matte lipstick,Lakmé,beauty,3.6 g,new,Chennai,599,168
+R-0130,Vitamin C face wash,Mamaearth,beauty,100 ml,new,Mumbai,349,98
+R-0131,Soft Pinch liquid blush,Rare Beauty,beauty,7.5 ml,new,Delhi,2700,756
+R-0132,Black Opium eau de parfum,Yves Saint Laurent,beauty,50 ml,new,Mumbai,10500,2940
+R-0133,Monopoly Classic,Hasbro,games,,like_new,Delhi,1999,560
+R-0134,Jenga,Hasbro,games,,good,Chennai,999,280
+R-0135,UNO card game,Mattel,games,,new,Mumbai,249,70
+R-0136,Scrabble Original,Mattel,games,,like_new,Chennai,1499,420
+R-0137,Catan base game,Catan,games,,new,Delhi,4499,1260
+R-0138,Ticket to Ride Europe,Days of Wonder,games,,like_new,Chennai,4999,1400
+R-0139,Classic 1000-piece puzzle,Ravensburger,games,,new,Mumbai,1599,448
+R-0140,Millennium Falcon set,LEGO,games,,like_new,Delhi,15999,4480
+R-0141,Hot Wheels 5-car pack,Hot Wheels,games,,damaged,Chennai,699,196
+R-0142,Atomic Habits (paperback),Penguin Random House,books,,like_new,Delhi,799,224
+R-0143,The Psychology of Money,Jaico Publishing,books,,new,Mumbai,399,112
+R-0144,Harry Potter box set,Bloomsbury,books,,good,Chennai,4999,1400
+R-0145,One Piece Vol. 1-3 box,VIZ Media,books,,new,Delhi,2499,700
+R-0146,Rockerz 450 headphones,boAt,audio,,good,Chennai,1499,420
+R-0147,Tune 520BT headphones,JBL,audio,,like_new,Mumbai,3999,1120
+R-0148,WH-1000XM5 headphones,Sony,audio,,like_new,Delhi,29990,8397
+R-0149,Original Classic sneaker,Reebok,sneakers,UK 9,damaged,Delhi,5999,1680
+R-0150,Yoga leggings,Lululemon,apparel,S,new,Mumbai,9800,2744

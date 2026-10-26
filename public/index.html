@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fcf8f0">
+  <meta name="color-scheme" content="light">
+  <title>Rehome: returns routing</title>
+  <meta name="description" content="Rehome uses Qloo's taste graph to find the city where each returned product will actually sell, then routes it there.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23D02C2A'/><path d='M8 20l8-9 8 9' fill='none' stroke='%23FFFAF5' stroke-width='3.2' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a href="#/" class="wordmark" aria-label="Rehome home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6"/><path d="M8 20l8-9 8 9"/></svg>
+      Rehome
+    </a>
+    <nav class="topnav" id="topnav"></nav>
+    <div class="modes" id="modes" aria-live="polite"></div>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer class="foot">
+    <p>Demand signals from <a href="https://www.qloo.com" target="_blank" rel="noopener">Qloo</a>'s taste graph. Costs come from a sample rate table you can replace. Built for the Qloo Agentic Hackathon. <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Source code</a></p>
+  </footer>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

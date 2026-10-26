@@ -1,0 +1,16 @@
+{
+  "name": "rehome",
+  "version": "1.0.0",
+  "description": "Returns-routing agent that uses Qloo's taste graph to find the city where a returned product will actually sell.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "node test/score.test.js",
+    "sample": "node scripts/make-sample.js",
+    "qloo-test": "node scripts/qloo-test.js"
+  }
+}
